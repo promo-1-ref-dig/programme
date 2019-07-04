@@ -1,4 +1,4 @@
-# Bienvenue sur votre programme de formation
+# Soyez les bienvenus sur votre programme de formation
 ## Pour rappel : 
 #### Toutes absences ou retards non justifiés seront sanctionnés pour éviter les désagréments que cela peut engendrer dans la vie et le dynamisme de la promo. (Que nous soyons sur un travail de groupe ou pas). 
 
