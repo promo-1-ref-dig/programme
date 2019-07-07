@@ -8,4 +8,4 @@ stephane@neovis.fr, s.gauthemorin@fondationface.org et gpailha@simplon.co
 
 
 
-## Et maintenant c'est parti ! Direction sur l'onglet Wiki !! :-) 
+## Et maintenant c'est parti ! Direction sur l'onglet Wiki !!
